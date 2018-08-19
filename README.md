@@ -1,2 +1,3 @@
 # jsstuffnoskillsinvolved
-Various tiny stuff in javascript
+
+[Game Of Life](https://multguy18.github.io/gol/)
