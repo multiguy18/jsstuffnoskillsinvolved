@@ -1,3 +1,3 @@
 # jsstuffnoskillsinvolved
 
-[Game Of Life](https://multguy18.github.io/jsstuffnoskillsinvolved/gol/)
+[Game Of Life](https://multiguy18.github.io/jsstuffnoskillsinvolved/gol/)
